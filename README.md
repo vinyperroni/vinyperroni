@@ -1,5 +1,9 @@
 ## Olá, me chamo Arlindo Vinícius, seja bem vindo ao meu perfil GitHub 👋<3
 
+- 🌱 Desenvolvedor Front End, em formação Full Stack.
+- 👯 Estou procurando colaborar como Desenvolvedor Front End
+- 😄 Pronomes: ele/dele
+
 <!--
 **vinyperroni/vinyperroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
