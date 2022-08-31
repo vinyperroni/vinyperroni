@@ -16,9 +16,7 @@
 </div>
 
 <div>
-<a href="https://github.com/vinyperroni">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinyperroni&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinyperroni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinyperroni)](https://github.com/vinyperroni/github-readme-stats)
 </div>
 
 
