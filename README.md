@@ -4,8 +4,7 @@
 - 👯 Estou procurando colaborar como Desenvolvedor Front End
 - 😄 Pronomes: ele/dele
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="50" height="50"/> 
 
 <!--
 **vinyperroni/vinyperroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
