@@ -1,7 +1,7 @@
 ## Olá, me chamo Arlindo Vinícius, seja bem vindo ao meu perfil GitHub 👋<3
 
 
-- 🌱 Desenvolvedor Front End, em formação Full Stack.
+- 🌱 Desenvolvedor Full Stack.
 - 👯 Estou procurando colaborar como Desenvolvedor Front End
 - 😄 Pronomes: ele/dele
 
