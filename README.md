@@ -2,7 +2,7 @@
 
 
 - 🌱 Desenvolvedor Full Stack.
-- 👯 Estou procurando colaborar como Desenvolvedor Front End
+- 👯 Estou procurando oportunidade como Desenvolvedor Front End Junior
 - 😄 Pronomes: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinyperroni&show_icons=true&theme=radical)
